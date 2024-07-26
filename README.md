@@ -1,0 +1,1 @@
+# qt-interview-mycom
